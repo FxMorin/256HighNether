@@ -1,6 +1,6 @@
 {
     "pack": {
         "pack_format": 6,
-        "description": "This datapack makes the nether generate 256 blocks high instead of 128 blocks By PR0CESS"
+        "description": "Makes the nether generate 256 blocks high instead of 128 blocks"
     }
 }
